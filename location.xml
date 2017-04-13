@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response><Say>Hi, this is the information line for Indivisible San Francisco. Our next meeting is at place place. Anyone is welcome to attend and help fight the Trump agenda. If you have questions or would like to talk to someone, leave a message with your phone number.</Say><Record transcribe="false" transcribeCallback="http://twimlets.com/voicemail?Email=non@mcohn.net"/></Response>
+<Response>
+	<Play>
+		https://octern.github.io/isf_msg.mp3
+	</Play>
+	<Say>
+		Our next meeting is on Sunday, April sixteenth at one thirty PM. We will be at The Episcopal Church of St. John the Evangelist, 1661 15th Street, in San Francisco near the sixteenth street mission Bart stop. To register go to indivisiblesf.org or leave a message at the tone.
+	</Say>
+	<Record transcribe="false" transcribeCallback="http://twimlets.com/voicemail?Email=non@mcohn.net"/>
+</Response>
