@@ -6,5 +6,5 @@
 	<Say>
 		Our next meeting is on Sunday, April thirtieth from one thirty PM to three thirty PM. Note the later end time, as we are trying out a new meeting format. We will be at The Episcopal Church of St. John the Evangelist, 1661 15th Street, in San Francisco near the sixteenth street mission Bart stop. To register go to indivisible SF dot org or leave a message at the tone.
 	</Say>
-	<Record transcribe="true" transcribeCallback="http://twimlets.com/voicemail?Email=non@mcohn.net"/>
+	<Record transcribe="true" transcribeCallback="http://twimlets.com/voicemail?Jonah@sfacugroup.com"/>
 </Response> 
