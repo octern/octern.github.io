@@ -4,7 +4,12 @@
 		https://octern.github.io/isf/isf_msg.mp3
 	</Play>
 	<Say>
-		Our next meeting will be a barbecue party at Golden Gate Park on Sunday, May 7 from noon to 4 PM. We will be in Dough boy Meadow, located at five nine one John F Kennedy Drive. Breakout groups may or may not conduct regular business. We will resume normal meetings the following Sunday, May 14. If you'd like to register or learn more, please leave a message with your phone number or email address at the tone.
+		Our next meeting will be a barbecue party at Golden Gate Park on Sunday, May 7 from noon to 4 PM. 
+		We will be in Dough boy Meadow, located at five nine one John F Kennedy Drive. 
+		Breakout groups may or may not conduct regular business. We will resume normal meetings the following Sunday, May 14.
+	</Say>
+	<Say>
+		If you'd like to register or learn more, please leave a message with your phone number or email address at the tone.
 	</Say>
 	<Record transcribe="true" transcribeCallback="http://twimlets.com/voicemail?Email=jonahisf@mcohn.net"/>
 </Response> 
