@@ -4,7 +4,7 @@
 		https://octern.github.io/isf/isf_msg.mp3
 	</Play>
 	<Say>
-		Our next meeting is on Sunday, April thirtieth from one thirty PM to three thirty PM. Note the later end time, as we are trying out a new meeting format. We will be at The Episcopal Church of St. John the Evangelist, 1661 15th Street, in San Francisco near the sixteenth street mission Bart stop. To register go to indivisible SF dot org or leave a message at the tone.
+		Our next meeting will be a barbecue party at Golden Gate Park on Sunday, May 7 from noon to 4 PM. We will be in Doughboy Meadow, located at five nine one John F Kennedy Drive. Breakout groups may or may not conduct regular business. We will resume normal meetings the following Sunday, May 14. If you'd like to register or learn more, please leave a message with your phone number or email address at the tone.
 	</Say>
 	<Record transcribe="true" transcribeCallback="http://twimlets.com/voicemail?Email=jonahisf@mcohn.net"/>
 </Response> 
